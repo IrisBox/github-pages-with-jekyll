@@ -1,5 +1,5 @@
 ---
-title: "I'm **actualy** doing it!"
+title: "I'm actualy doing it!"
 date: 2020-02-19
 ---
 On this *cold* February morning, I'm learning to use Github.
