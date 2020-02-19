@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Andy Corrigan is just learning Github: This is his blog about it....
 
-I'm glad you are here. I plan to talk about ...
+I am using this blog to explore my learning journey in how to use Github.
+Probably not very interesting for now, but I'm pleased to get **this** far!
